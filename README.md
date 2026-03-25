@@ -1,19 +1,26 @@
+
 ## Hi, I am CodeR-D-R(Roshan Deepu Roy)
 ### 🚀 Developer | 🎹 Musician | 🧠 Creator
 I'm just a random person on the internet working on coding and music.
 
 ---
 
-### 💻 What I Do
+### Who Am I
 - 🐍 Python Program Developer
 - 🎹 Keyboardist & Music Producer
 - 🛠️ Creator of Custom Tools & Packages
+- 🪟 Windows Enthusiast
 
-![Stats](https://github-readme-stats.vercel.app/api?username=R-D-R248&theme=radical)
 
-### 🏆 Top Projects
+---
+![Projects](https://img.shields.io/badge/Projects-%20-212830?style=for-the-badge&logo=github&logoColor=d83b7d)
 - **[MediaZipX](https://github.com/R-D-R248/MediaZipX)** – Media utility tool  
 - **[PyDLE](https://github.com/R-D-R248/PyDLE)** – An IDLE made from Python  
+
+
+---
+
+![Stats](https://github-readme-stats.vercel.app/api?username=R-D-R248&theme=radical)
 
 ---
 
