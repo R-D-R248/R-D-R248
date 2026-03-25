@@ -9,8 +9,6 @@ I'm just a random person on the internet working on coding and music.
 - 🎹 Keyboardist & Music Producer
 - 🛠️ Creator of Custom Tools & Packages
 
-![GitHub Contribution Graph](https://ghchart.rshah.org/ff0000/R-D-R248)
-
 ![Stats](https://github-readme-stats.vercel.app/api?username=R-D-R248&theme=radical)
 
 ### 🏆 Top Projects
